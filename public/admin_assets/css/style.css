@@ -1,0 +1,20 @@
+.remove_image{
+	float: left;
+    position: relative;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.delete_icon{
+	    position: absolute;
+	    z-index: 1;
+	    top: 0;
+	    right: 0;
+	    width: 30px;
+	    height: 30px;
+	    background: rgb(0 0 0 / 72%);
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	    color: red;
+	    cursor: pointer;
+}
